@@ -8,7 +8,7 @@ Educational deep dive into transformer internals through full PyTorch implementa
 
 This project was undertaken to develop a foundational understanding of transformer architectures by implementing core components from scratch, rather than relying solely on high-level libraries. While production NLP work leverages frameworks like Hugging Face Transformers (see my Gaming Console Sentiment Analysis project), understanding the underlying mechanics enables better model optimization, debugging, and architectural decision-making.
 
-**Key Learning Goal:** Master transformer fundamentals to become a more effective practitioner when using modern LLM frameworks.
+**Key Learning Goal:** Learn the fundamentals to become a more effective practitioner when using modern LLM frameworks.
 
 ---
 
